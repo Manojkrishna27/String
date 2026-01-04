@@ -7,5 +7,5 @@ def removeelement(word,target):
     return "".join(res) # then join the list into string
 
 word="Hello world"
-target="l"
+target="o"
 print(removeelement(word,target))
