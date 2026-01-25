@@ -6,5 +6,5 @@ def contain_digit(word):
         
         return "String not contain digits"
 
-word="Manoj27"
+word="Manoj2710"
 print(contain_digit(word)) 
