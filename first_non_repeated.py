@@ -7,5 +7,5 @@ def firstnonrepeated(word):
         if freq[ch]==1:  # if ch == 1 the first ch will be return
             return ch    
     return -1
-word="swisss"
+word="swiss"
 print(firstnonrepeated(word))
