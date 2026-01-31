@@ -7,6 +7,6 @@ def count_vowels_consonants(word):
             vowels+=1
         elif ch.isalpha(): # this ensure that we will only count the actual letters
             consonants+=1
-    return "the vowels in a string:",vowels,"the consonants in a string:", consonants
+    return "the vowels in a string:",vowels,"the consonants in a String:", consonants
 word="apple1"
 print(count_vowels_consonants(word))
