@@ -1,4 +1,4 @@
-word="timisaplayertimplayscrickettimisaboy"   
+word="timisaplayertimplayscrickettimisatim"   
 check="tim"
 count=0
 for i in range(len(word)-len(check)+1):
